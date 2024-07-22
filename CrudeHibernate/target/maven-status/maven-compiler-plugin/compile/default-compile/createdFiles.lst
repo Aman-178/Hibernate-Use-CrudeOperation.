@@ -1,0 +1,9 @@
+com\example\ReadProductServlet.class
+com\example\UpdateServlet.class
+com\example\Dao.class
+com\mycompany\crudehibernate\JakartaRestConfiguration.class
+com\mycompany\crudehibernate\resources\JakartaEE10Resource.class
+com\example\AddProductServlet.class
+com\example\DataList.class
+com\example\DeleteServlet.class
+com\example\Register.class
